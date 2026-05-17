@@ -9,5 +9,5 @@ permissions: {}
 
 jobs:
   renovate:
-    uses: .github/workflows/renovate.yaml@main
+    uses: ./.github/workflows/renovate.yaml
     secrets: inherit
