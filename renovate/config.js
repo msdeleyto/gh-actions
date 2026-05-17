@@ -1,3 +1,3 @@
 module.exports = {
-  repositories: ["msdeleyto/gh-actions", "msdeleyto/homelab-manifests"],
+  repositories: ["msdeleyto/gh-actions"],
 };
